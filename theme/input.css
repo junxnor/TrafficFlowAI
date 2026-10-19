@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "./variables.css";
+@import "./theme.css";
+
+@layer components {
+  .tfai-shell { max-width: 1200px; margin: 0 auto; }
+  .tfai-pill { border-radius: 9999px; }
+}

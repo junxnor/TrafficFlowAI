@@ -1,0 +1,9 @@
+numpy
+pandas
+h5py
+tables
+scikit-learn
+streamlit
+plotly
+joblib
+pytest
